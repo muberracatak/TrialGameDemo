@@ -1,6 +1,10 @@
 # TrialGameDemo
 
-![image]<img width="359" alt="image" src="https://user-images.githubusercontent.com/55498680/175831302-63db31c0-181e-4fc9-b43b-a5e0134f9c51.png">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/55498680/175831302-63db31c0-181e-4fc9-b43b-a5e0134f9c51.png">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/55498680/175831335-3f409b43-7177-4cfd-af02-ef37e6d0cb27.png">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/55498680/175831348-74c6a2a5-4573-41e8-a773-7bd4cf557939.png">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/55498680/175831368-cebbe265-8050-41b3-b822-26324b267cff.png">
+
 
 
 ## Getting Started
